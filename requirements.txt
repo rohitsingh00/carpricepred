@@ -20,7 +20,6 @@ google-auth==1.29.0
 google-auth-oauthlib==0.4.4
 google-pasta==0.2.0
 grpcio==1.32.0
-h5py==2.10.0
 idna==2.10
 imutils==0.5.4
 ipykernel==5.5.3
@@ -49,12 +48,6 @@ pyarrow==3.0.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pydeck==0.6.2
-PyQt5==5.15.4
-PyQt5-Qt5==5.15.2
-PyQt5-sip==12.8.1
-pywinpty==0.5.7
-PyYAML==5.4.1
-pyzmq==22.0.3
 qtconsole==5.0.3
 QtPy==1.9.0
 requests==2.25.1
