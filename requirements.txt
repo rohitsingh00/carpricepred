@@ -52,9 +52,7 @@ js-regex==1.0.1
 jsonify==0.5
 jsonschema==3.2.0
 jupyter==1.0.0
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
 jupyter-console==6.4.0
-jupyter-core @ file:///C:/ci/jupyter_core_1612213356021/work
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
 Keras==2.4.3
@@ -66,11 +64,7 @@ marshmallow==3.11.1
 matplotlib==3.4.1
 mistune==0.8.4
 mypy-extensions==0.4.3
-nbclient @ file:///tmp/build/80754af9/nbclient_1614364831625/work
-nbconvert @ file:///C:/ci/nbconvert_1601914925608/work
-nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
 nest-asyncio==1.5.1
-notebook @ file:///C:/ci/notebook_1616443715883/work
 numpy==1.19.5
 oauthlib==3.1.0
 opt-einsum==3.3.0
@@ -130,7 +124,6 @@ toolz==0.11.1
 torch==1.8.1
 tornado==6.1
 tqdm==4.60.0
-traitlets @ file:///home/ktietz/src/ci/traitlets_1611929699868/work
 typing-extensions==3.7.4.3
 typing-inspect==0.5.0
 tzlocal==2.1
